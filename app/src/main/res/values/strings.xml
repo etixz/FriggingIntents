@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FriggingIntents</string>
+    <string name="hint_et_name">Provide a name</string>
+    <string name="str_btn_call">Call</string>
+    <string name="str_btn_homepage">Homepage</string>
+    <string name="str_btn_navigate">Hyperspeed activated!</string>
+</resources>
